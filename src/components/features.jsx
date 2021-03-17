@@ -3,7 +3,7 @@ export const Features = (props) => {
     <div id='features' className='text-center'>
       <div className='container'>
         <div className='col-md-10 col-md-offset-1 section-title'>
-          <h2>Features</h2>
+          <h3>Pool ID: 7f6c103302f96390d478a170fe80938b76fccd8a23490e3b6ddebcf7</h3>
         </div>
         <div className='row'>
           {props.data
